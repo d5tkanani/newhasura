@@ -1,0 +1,3 @@
+table:
+  name: users_with_example_email
+  schema: public
